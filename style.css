@@ -429,7 +429,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .section__devices {
-    background: url("featurebackground.PNG")
+    background: url(featurebackground.PNG)
     center no-repeat;
     background-size: cover;
     height: 300px;
