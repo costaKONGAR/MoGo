@@ -1382,7 +1382,7 @@ hr {
 
 .section__map {
 
-    background-image: url(../html/mapmap.PNG);
+    background-image: url("mapmap.PNG");
     background-repeat: no-repeat;
     align-items: center;
     background-size: cover;
